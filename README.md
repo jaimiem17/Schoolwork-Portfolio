@@ -2,6 +2,10 @@
 
 Hey there! Welcome to my academic archive — a collection of code, projects, and experiments from my journey as an IT & Computer Science student at Tulane University (with a Biomedical Engineering minor).
 
+> Looking for a faster tour? Check out the new [Portfolio Overview](PORTFOLIO_OVERVIEW.md) for highlighted projects and direct links.
+>
+> Spotlight: I led development on our group capstone project — a community health outreach tracker — hosted at [emilyaymond/capstone-project](https://github.com/emilyaymond/capstone-project).
+
 ## 📚 What This Repo Is
 
 This is **not** a polished, cohesive portfolio — it's more like a digital backpack dump. You'll find:
