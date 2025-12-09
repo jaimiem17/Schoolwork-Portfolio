@@ -4,7 +4,6 @@ Hey there! Welcome to my academic archive — a collection of code, projects, an
 
 > Looking for a faster tour? Check out the new [Portfolio Overview](PORTFOLIO_OVERVIEW.md) for highlighted projects and direct links.
 >
-> Spotlight: I led development on our group capstone project — a community health outreach tracker — hosted at [emilyaymond/capstone-project](https://github.com/emilyaymond/capstone-project).
 
 ## 📚 What This Repo Is
 
