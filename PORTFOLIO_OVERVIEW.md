@@ -4,12 +4,18 @@ Welcome! This overview surfaces quick highlights from across the coursework so y
 
 ## Quick Navigation
 - [Capstone Project](#capstone-project)
+- [Programming 2 (Java)](#programming-2-java)
 - [Programming 3 (Java)](#programming-3-java)
 - [Systems & Networking (C)](#systems--networking-c)
 - [Data Visualization (D3.js)](#data-visualization-d3js)
 
 ## Capstone Project
 - **Community health outreach tracker (full-stack capstone)** – led development of [emilyaymond/capstone-project](https://github.com/emilyaymond/capstone-project) covering backend APIs, frontend dashboards, and deployment handoff.
+
+## Programming 2 (Java)
+- **Fraction arithmetic helper** – `Programming 2/Rational/Rational.java` models rational numbers with add/subtract/multiply/divide helpers that reduce results via a recursive greatest-common-factor calculation. 【F:Programming 2/Rational/Rational.java†L1-L77】
+- **Boolean-backed integer sets** – `Programming 2/Integer Set/IntegerSet.java` stores membership in a boolean array and supports union, intersection, equality checks, and formatted printing. 【F:Programming 2/Integer Set/IntegerSet.java†L1-L81】
+- **String masking utility** – `Programming 2/StringHider/StringHider.java` hides and restores substrings by replacing selected ranges with placeholder characters. 【F:Programming 2/StringHider/StringHider.java†L1-L28】
 
 ## Programming 3 (Java)
 - **Array-based priority queue** – `Programming 3/JaimieMorris_ArrayHeap.java` implements the `PriorityQueue` interface with heap-style insert/remove logic and dynamic resizing for generics. 【F:Programming 3/JaimieMorris_ArrayHeap.java†L1-L96】
