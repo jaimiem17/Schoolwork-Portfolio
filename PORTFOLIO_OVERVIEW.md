@@ -9,7 +9,7 @@ Welcome! This overview surfaces quick highlights from across the coursework so y
 - [Data Visualization (D3.js)](#data-visualization-d3js)
 
 ## Capstone Project
-- **Community health outreach tracker (full-stack capstone)** – led development of [emilyaymond/capstone-project](https://github.com/emilyaymond/capstone-project) covering backend APIs, frontend dashboards, and deployment handoff. This group project represents the culmination of the program and showcases end-to-end ownership.
+- **Community health outreach tracker (full-stack capstone)** – led development of [emilyaymond/capstone-project](https://github.com/emilyaymond/capstone-project) covering backend APIs, frontend dashboards, and deployment handoff.
 
 ## Programming 3 (Java)
 - **Array-based priority queue** – `Programming 3/JaimieMorris_ArrayHeap.java` implements the `PriorityQueue` interface with heap-style insert/remove logic and dynamic resizing for generics. 【F:Programming 3/JaimieMorris_ArrayHeap.java†L1-L96】
